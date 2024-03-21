@@ -17,7 +17,7 @@
 ## STS 3 에 적용하겠습니다.
 
 - `STS 3` 를 실행하여 프로젝트를 작성할 `workspace` 폴더를 선택하고 IDE 화면이 나타날때까지 기다려 줍니다.
-- `STS 3` 를 그래도 종료하고, `workspace` 폴더를 찾아 갑니다.
+- `STS 3` 를 그냥 종료하고, 윈도우 탐색기에서 `workspace` 폴더를 찾아 갑니다.
 - `.metadata` 라는 폴더가 생성되어 있을 것입니다
 - ![alt text](image-1.png)
 - `.metadata` 폴더에 `.sts/content` 폴더를 만들고 압축해제한 template 폴더를 복사 붙여넣기 합니다
