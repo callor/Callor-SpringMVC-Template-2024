@@ -2,7 +2,7 @@
 <descriptors>
 	<descriptor
 		id="com.callor.templates.mvc"
-		name="Spring MVC 2024"
+		name="Spring MVC Callor"
 		kind="template"
 		version="1.0.1.RELEASE"
 		local="false"
