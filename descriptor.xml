@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<descriptors>
+	<descriptor
+		id="com.callor.templates.mvc"
+		name="Spring MVC 2024"
+		kind="template"
+		version="1.0.1.RELEASE"
+		local="false"
+		requires="[3.0.0,4.0)"
+		requiresbundle="org.eclipse.m2e.core"
+		size="9500"
+		category="Integration"
+		url="https://raw.github.com/SpringSource/spring-integration-templates/master/si-sts-templates/builds/si-template-standalone-simple-1.0.1.RELEASE.zip">
+		<description>Creates a Spring Integration project that runs as a
+				standalone Java application using core components only.</description>
+	</descriptor>
+</descriptors>
