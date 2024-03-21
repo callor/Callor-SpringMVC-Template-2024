@@ -10,7 +10,7 @@
 		requiresbundle="org.eclipse.m2e.core"
 		size="9500"
 		category="Integration"
-		url="https://raw.github.com/SpringSource/spring-integration-templates/master/si-sts-templates/builds/si-template-standalone-simple-1.0.1.RELEASE.zip">
+		url="https://github.com/callor/Callor-SpringMVC-Template-2024/archive/refs/tags/SpringMVC.zip">
 		<description>Creates a Spring Integration project that runs as a
 				standalone Java application using core components only.</description>
 	</descriptor>
