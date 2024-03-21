@@ -7,7 +7,6 @@
 		version="1.0.1.RELEASE"
 		local="false"
 		requires="[3.0.0,4.0)"
-		requiresbundle="org.eclipse.m2e.core"
 		size="9500"
 		category="Integration"
 		url="https://github.com/callor/Callor-SpringMVC-Template-2024/archive/refs/tags/SpringMVC.zip">
