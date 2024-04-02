@@ -11,7 +11,7 @@
 ## Spring Legacy Template 을 다운로드 받습니다
 
 - `com.callor.templates.mvc-5.2.25.zip` 파일 다운로드
-- [2024.3.21 다운로드 클릭](https://github.com/callor/Callor-SpringMVC-Template-2024/releases/download/SpringLegacy/com.callor.templates.mvc-5.2.25.zip)
+- [2024.4.1 버전 다운로드 클릭](https://github.com/callor/Callor-SpringMVC-Template-2024/releases/download/SpringLegacy/com.callor.templates.mvc-5.2.25.zip)
 - 다운로드 받은 파일을 압축을 풀어 줍니다. 이때 폴더 이름을 잘 확인하세요
 - ![alt text](images/image.png)
 
