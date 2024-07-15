@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
-		<java-version>11</java-version>
+		<java-version>15</java-version>
 		<org.springframework-version>5.2.25.RELEASE</org.springframework-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 	</properties>
@@ -26,11 +26,6 @@
 				 </exclusion>
 			</exclusions>
 		</dependency>
-		<!-- 
-		Spring WebMVC Framework Auto Dependency 
-		spring-aop, spring-beans, spring-context, spring-core
-		spring-expression, spring-jcl, spring-web, spring-webmvc
-		-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
