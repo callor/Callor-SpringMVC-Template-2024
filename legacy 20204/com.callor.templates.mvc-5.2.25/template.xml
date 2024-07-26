@@ -1,0 +1,12 @@
+<template>
+	<descriptor id="com.callor.templates.mvc"
+		name="Spring MVC Project 2024"
+		kind="template"
+		version="5.2.25">
+		<description>
+			A new Spring MVC web application development project
+		</description>
+	</descriptor>
+	<project path=""/>
+	<json path="wizard.json"/>
+</template>
